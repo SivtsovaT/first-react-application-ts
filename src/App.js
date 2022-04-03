@@ -5,7 +5,7 @@ import ExpenseItem from "./components/ExpenseItem";
 class App extends Component {
   render() {
     return (
-      <div className = 'fff'>
+      <div>
         <h2>Let's get started!</h2>
           <ExpenseItem></ExpenseItem>
       </div>
